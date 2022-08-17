@@ -35,6 +35,7 @@
 ### Peripherals
 
 - [ADNS9800](adns9800.md): Controlling ADNS9800 optical sensor
+- [BlackBerry Q20 TrackPad](bbq20trackpad.md): Handling an I2C trackpad on a BlackBerry Q20 keyboard.
 - [Encoder](encoder.md): Handling rotary encoders
 - [Pimoroni trackball](pimoroni_trackball.md): Handling a small I2C trackball made by Pimoroni
 

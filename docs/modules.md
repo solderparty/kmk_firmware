@@ -31,3 +31,4 @@ These modules are for specific hardware and may require additional libraries to 
 - [Encoder](encoder.md): Handling rotary encoders.
 - [Pimoroni trackball](pimoroni_trackball.md): Handling a small I2C trackball made by Pimoroni.
 - [AS5013 aka EasyPoint](easypoint.md): Handling a small I2C magnetic position sensor made by AMS.
+- [BlackBerry Q20 TrackPad](bbq20trackpad.md): Handling an I2C trackpad on a BlackBerry Q20 keyboard.
